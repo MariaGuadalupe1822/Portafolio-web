@@ -1,0 +1,34 @@
+nav, header {
+    color: white;
+}
+
+#navbarNav a{
+    color:white;
+}
+
+.icono {
+    font-size: 3rem; 
+    color: white;
+    background-color: cornflowerblue;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 12px;
+}
+
+.subtitulo-habilidades {
+    margin-top: 16px;
+}
+
+header {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    height: 100vh;
+
+    background-image: url(https://scontent.fcvj2-1.fna.fbcdn.net/v/t39.30808-6/359793313_1706473113130703_7059878153313325941_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHgE7YB5EhMWarMDSO-X-kCL1q3v2lEnmwvWre_aUSebE72HHXxONNd_HTVu1OMU-V5qCbHLNOr9ulvU6Nzv4ia&_nc_ohc=zc6crm6OEisQ7kNvgGo__Wc&_nc_oc=Adj-P3ldvD5_N-PwhvsGnd7exAP0jFdlJbBKKUGSTFDVHBpIx5Pxq0BHnLASckuCS3L-TO-CliH6S2_8-tV8AjhH&_nc_ht=scontent.fcvj2-1.fna&oh=00_AfDI21Y6r663ln4AgqbbMj_uXriSEEfmQ5Q29Vews1XptA&oe=663F1BCC);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-attachment: fixed; /* Keep the image in place while scrolling */
+    filter: brightness(0.8); /* Adjust the brightness */
+}
+  
