@@ -4,10 +4,10 @@ var typewriter = new Typewriter(app, {
     loop: true
 });
 
-typewriter.typeString('Hello World!')
+typewriter.typeString('Desarrolladora frontend junior!')
     .pauseFor(2500)
     .deleteAll()
-    .typeString('Strings can be removed')
+    .typeString('Apasionada de crear cosas nuevas y poder compartirlas contigo:)')
     .pauseFor(2500)
     .deleteChars(7)
     .typeString('<strong>altered!</strong>')
