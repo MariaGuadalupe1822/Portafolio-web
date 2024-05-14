@@ -13,6 +13,7 @@ Fue todo un gusto haber participado dentro de este gran proyecto gracias Technol
 ![Sección Yo](![alt text](image.png))
 ![Sección Yo](![alt text](image-1.png))
 ![Sección Yo](![alt text](image-2.png))
+![Sección Yo](![alt text](image-4.png))
 
 
 - Tecnologías
